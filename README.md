@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Lodi Micali
-- 👀 I’m interested in developer.
+- 👀 I'm studying to be a developer.
 - 🌱 I’m currently learning php, css and html.
 - 📫 How to reach me: rodrigolodi1101@gmail.com or https://www.linkedin.com/in/rodrigo-micali/
 
