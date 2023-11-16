@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Lodi Micali
-- 👀 I'm studying to be a developer.
-- 🌱 I’m currently learning php, css and html.
+- 👀 I’m a software engineering student.
+- 💻 I currently work as a PHP developer at the company OM Informática
 - 📫 How to reach me: rodrigolodi1101@gmail.com or https://www.linkedin.com/in/rodrigo-micali/
 
 <!---
